@@ -6,8 +6,8 @@ Hi, I'm [Your Name]! I'm a programmer who enjoys learning new technologies.
 ## 💻 Favorite Programming Language
 My favorite programming language is Python because it is versatile and easy to learn.
 
-## 📷 Picture
-![My Image](https://via.placeholder.com/150)
+## 📷 My Picture
+[Click here to view my picture](Omar_kurdi_PFP.jpg)
 
 ## 🔗 External Link
 [Visit Google](https://www.google.com)
@@ -41,3 +41,4 @@ My favorite programming language is Python because it is versatile and easy to l
 ## 🧑‍💻 Code Example
 ```python
 print("Hello, world!")
+
