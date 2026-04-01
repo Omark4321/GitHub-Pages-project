@@ -36,7 +36,7 @@ My favorite programming language is Python because it is versatile and easy to l
 - [ ] Finish assignment
 
 ## 💬 Quote
-> This is a blockquote example.
+> Together we can change the world, just one random act of kindness at a time. -Ron Hall
 
 ## 🧑‍💻 Code Example
 ```python
