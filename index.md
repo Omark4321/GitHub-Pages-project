@@ -1,13 +1,13 @@
 # 👋 Welcome to My User Page
 
 ## About Me
-Hi, I'm [Your Name]! I'm a programmer who enjoys learning new technologies.
+Hi, I'm Omar Kurdi! I'm a programmer who enjoys learning new things.
 
 ## 💻 Favorite Programming Language
 My favorite programming language is Python because it is versatile and easy to learn.
 
 ## 📷 My Picture
-[Click here to view my picture](Omar_kurdi_PFP.jpg)
+![My Picture](Omar_kurdi_PFP.jpg)
 
 ## 🔗 External Link
 [Visit Google](https://www.google.com)
