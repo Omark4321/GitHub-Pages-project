@@ -38,7 +38,8 @@ My favorite programming language is Python because it is versatile and easy to l
 ## 💬 Quote
 > Together we can change the world, just one random act of kindness at a time. -Ron Hall
 
-## 🧑‍💻 Code Example
+## 👨‍💻 Code Example
+
 ```python
 print("Hello, world!")
 
